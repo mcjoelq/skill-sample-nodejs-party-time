@@ -1,9 +1,9 @@
 # Build An Alexa Hello World Skill
-<img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
+<img src="http://cf.the36thavenue.com/wp-content/uploads/2017/01/BFF-PARTY-Banner.png" />
 
-### This is a simple tutorial to introduce a simple Alexa skill and code.
+### This is a simple Alexa skil
 
-This tutorial will walk first-time Alexa skills developers through all the required steps involved in creating a skill using this hello world template, called ‘hello world’. This post assumes you have some familiarity with JavaScript/Node.js (or a similar programming language) and the Alexa Skills Kit.
+This is a simple Alexa skill that verifies whether or not the user wants to party.
 
 If this is your first time here, you're new to Alexa Skills Development, or you're looking for more detailed instructions, click the **Get Started** button below:
 
