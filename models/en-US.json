@@ -1,0 +1,39 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "party people",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "PartyPeopleIntent",
+          "samples": [
+            "yes",
+            "of course",
+            "you bet",
+            "lets get ill"
+          ]
+        },
+        {
+          "name": "PartyPooperIntent",
+          "samples": [
+            "no",
+            "of course not",
+            "never",
+            "maybe tomorrow"
+          ]
+        }
+      ]
+    }
+  }
+}
