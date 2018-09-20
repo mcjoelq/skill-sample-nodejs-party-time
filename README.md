@@ -1,11 +1,11 @@
 # Build An Alexa Hello World Skill
 <img src="http://cf.the36thavenue.com/wp-content/uploads/2017/01/BFF-PARTY-Banner.png" />
 
-### This is a simple Alexa skil
+### This is a sample Alexa skill
 
-This is a simple Alexa skill that verifies whether or not the user wants to party.
+This very simple Alexa skill verifies whether or not the user wants to party.
 
-If this is your first time here, you're new to Alexa Skills Development, or you're looking for more detailed instructions, click the **Get Started** button below:
+If you're new to Alexa Skills Development, or you're looking for more detailed instructions, click the **Get Started** button below:
 
 [![Get Started](https://camo.githubusercontent.com/db9b9ce26327ad3bac57ec4daf0961a382d75790/68747470733a2f2f6d2e6d656469612d616d617a6f6e2e636f6d2f696d616765732f472f30312f6d6f62696c652d617070732f6465782f616c6578612f616c6578612d736b696c6c732d6b69742f7475746f7269616c732f67656e6572616c2f627574746f6e732f627574746f6e5f6765745f737461727465642e5f5454485f2e706e67)](./instructions/1-voice-user-interface.md)
 
