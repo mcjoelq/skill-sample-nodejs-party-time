@@ -7,7 +7,7 @@ This very simple Alexa skill verifies whether or not the user wants to party.
 
 If you're new to Alexa Skills Development, or you're looking for more detailed instructions, click the **Get Started** button below:
 
-[![Get Started](https://github.com/alexa/skill-sample-nodejs-hello-world/blob/master/instructions/1-voice-user-interface.md)
+[![Get Started](https://github.com/alexa/skill-sample-nodejs-hello-world/blob/master/instructions/1-voice-user-interface.md)]
 
 Or click [here](./instructions/7-cli.md) for instructions using the ASK CLI (command line interface).
 
