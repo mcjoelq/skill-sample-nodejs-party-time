@@ -1,4 +1,4 @@
-# Build An Alexa Hello World Skill
+# Build An Alexa Party Time Skill
 <img src="http://cf.the36thavenue.com/wp-content/uploads/2017/01/BFF-PARTY-Banner.png" />
 
 ### This is a sample Alexa skill
